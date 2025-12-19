@@ -1,6 +1,21 @@
 ### Hi there 👋, My name is Ajay Gupta
-#### Senior Software Engineer with over 4 years of experience in DevOps (AWS, Azure DevOps, Terraform) and extensive expertise in MLOps (MLFlow, AWS Sagemaker), Backend development in NodeJS, Python and Data Science. 
-#### From designing robust backend systems to implementing cutting-edge DevOps practices and delving into Machine Learning Operations and Data Science, I am dedicated to pushing the boundaries of what technology can achieve.
+
+#### Senior MLOps Engineer with nearly 6 years of experience specializing in bridging the gap between Machine Learning and Operations. My expertise lies in designing, building, and deploying robust, scalable, and automated end-to-end ML systems on the cloud.
+
+#### I have a proven track record of optimizing the entire ML lifecycle—from data processing and experiment tracking to model deployment and monitoring. I thrive on architecting resilient cloud infrastructure and automating CI/CD pipelines to accelerate delivery and enhance system reliability.
+
+#### Key areas of expertise include:
+- ML Workflow Orchestration: Designing and implementing production-grade ML pipelines using AWS SageMaker, Kubeflow, MLflow, and Databricks.
+- Cloud & DevOps Automation: Building and managing infrastructure as code (IaC) with Terraform and automating CI/CD processes in Azure DevOps and Jenkins.
+- Cloud Architecture: Deep proficiency in AWS and Azure, including leading a successful on-premise to AWS cloud migration utilizing services like EC2, S3, Lambda, EKS, and VPC.
+- System Design: Strong foundation in distributed systems, microservices architecture, and API development.
+
+#### I am passionate about leveraging technology to solve complex problems and build efficient, scalable systems. Let's connect to discuss innovations in MLOps and cloud engineering.
+
+#### Core Technologies:
+ - **MLOps/Data:** `AWS SageMaker`, `MLflow`, `Kubeflow`, `Databricks`, `PySpark`, `TensorFlow`, `PyTorch`
+ - **Cloud/DevOps:** `AWS`, `Azure`, `GCP`, `Kubernetes (EKS)`, `Docker`, `Ansible`, `Jenkins`, `CI/CD`
+ - **Languages & DBs:** `Python`, `SQL`, `Terraform`
 
 <!-- Skills: NODE JS / EXPRESS JS / REACT / MONGO DB / JS / HTML / CSS -->
 
