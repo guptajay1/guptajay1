@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Ajay Gupta
 
-#### Senior MLOps Engineer with nearly 6 years of experience specializing in bridging the gap between Machine Learning and Operations. My expertise lies in designing, building, and deploying robust, scalable, and automated end-to-end ML systems on the cloud.
+#### Lead MLOps Engineer with nearly 6 years of experience specializing in bridging the gap between Machine Learning and Operations. My expertise lies in designing, building, and deploying robust, scalable, and automated end-to-end ML systems on the cloud.
 
 #### I have a proven track record of optimizing the entire ML lifecycle—from data processing and experiment tracking to model deployment and monitoring. I thrive on architecting resilient cloud infrastructure and automating CI/CD pipelines to accelerate delivery and enhance system reliability.
 
